@@ -33,7 +33,7 @@ derivative works thereof, in binary and source code form.
 #ifndef FOR_R_TDA
 #include <iostream>
 #endif
-
+#include <cstdint>
 #include <iomanip>
 #include <locale>
 #include <sstream>
